@@ -1,4 +1,4 @@
-baseURL = 'https://life-in-weeks.edgeone.run/'
+baseURL = 'https://dayueba.github.io/life-in-weeks/'
 languageCode = 'en-us'
 title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]

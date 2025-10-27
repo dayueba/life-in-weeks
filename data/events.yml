@@ -2,406 +2,402 @@
 # The first event should be birth.
 # The date should match start_date in content/index.md.
 #
-"1975-09-19":
-    - headline: "🐣 I was born"
-      description: "I entered the world at around 9am in Brooklyn, New York, USA, the youngest of 4 by far, a happy accident. Thanks, Mom. Dad came to the hospital in a jacket and tie to meet me for the first time."
+"1998-05-04":
+    - headline: "🐣 我出生了"
+      description: "不知道具体时间在哪出生的，但是是在家里出生的，是家里第一个孩子，也是唯一一个。"
       based: "Brooklyn"
       doing: "I was tiny"
 
 "1980-09-01":
-    - headline: "🖍️ Kindergarten"
-      description: "Went to Tiny Tot Schoolhouse, where Miss Mary and Miss Nini were my teachers."
+    - headline: "🖍️ 上幼儿园"
+      description: "去了 Tiny Tot Schoolhouse 上课，Mary 老师和 Nini 老师照顾我们。"
       based: "Brooklyn"
       doing: "Kindergartner"
       association: "Tiny Tot Schoolhouse"
 
 "1981-09-01":
-    - headline: "📓 Elementary school"
-      description: "Went to Catholic school, with uniforms, nuns, mass, and all."
+    - headline: "📓 小学时代"
+      description: "上了一所天主教学校，有校服、修女、弥撒，一应俱全。"
       based: "Brooklyn"
       doing: "Student"
       association: "St. E"
 
 "1984-04-01":
-    - headline: "🖥️ First computer"
-      description: "Dad loved gadgets and was ahead of his time when he bought us an IBM PCjr. Wrote my first BASIC programs on that machine, played the Keyboard Adventure easter egg game, Kings Quest and Space Quest, and drew a pixelated Van Halen logo with A."
+    - headline: "🖥️ 第一台电脑"
+      description: "爸爸酷爱电子产品，超前地给我们买了一台 IBM PCjr。我在那台机器上写了第一段 BASIC 程序，玩 Keyboard Adventure 彩蛋游戏、《国王密令》和《太空争霸》，还用字母 A 画出了像素版的范海伦标志。"
 
 "1989-09-01":
-    - headline: "📚 High school"
-      description: "All girls Catholic high schoool, where my sister went."
+    - headline: "📚 高中"
+      description: "在姐姐就读过的女子天主教高中上学。"
       based: "Brooklyn"
       doing: "High school student"
       association: "BKHS"
 
 "1989-11-23":
-    - headline: "🎫 First concert"
-      description: "New Kids on the Block at Madison Square Garden. Whole school won tickets in an NYC radio contest by writing the most index cards of any other school in the 5 boroughs."
+    - headline: "🎫 第一次演唱会"
+      description: "在麦迪逊广场花园观看 New Kids on the Block 演唱会。全校为纽约市区电台比赛写出的索引卡数量最多，赢得了门票。"
 
 "1991-10-01":
-    - headline: "💶 Visited Europe"
-      description: "My first time travelling outside of the US was a school trip to Europe: Italy, France, and England. Begged my parents to let me go on this trip instead of have a sweet sixteen party (blech)."
+    - headline: "💶 欧洲初访"
+      description: "第一次出国旅行去欧洲：意大利、法国和英国。我求爸妈让我去这次旅行而不是办甜蜜十六岁派对（太土了）。"
 
 "1992-09-20":
-    - headline: "🪪 Drivers license"
-      description: "The day I passed my drivers test, my parents looked stricken."
+    - headline: "🪪 获得驾照"
+      description: "通过路考的那天，我父母的表情像是受到了惊吓。"
 
 "1993-09-02":
-    - headline: "🏫 Left for college"
+    - headline: "🏫 赴大学报到"
       based: "Poughkeepsie"
       doing: "College student"
       association: "Marist"
-      description: "Went to Marist College thanks to a scholarship, a loan, Mom & Dad, and Metro-North."
+      description: "靠着奖学金、贷款、爸妈以及地铁北方线，我去了马里斯特学院。"
 
 "1993-09-15":
-    - headline: "🖨️ Help desk"
-      description: "Started an on-campus job at Marist's computer lab help desk, where I worked all 4 years. The lab ran mainframe terminals, OS/2 and DOS workstations. Printers jammed constantly. Earned minimum wage, $4.25/hour, and learned so much."
+    - headline: "🖨️ 机房服务台"
+      description: "在马里斯特学院计算机实验室的服务台开始了校内工作，一干就是四年。实验室有大型机终端、OS/2 和 DOS 工作站。打印机总是卡纸。我拿最低工资 4.25 美元一小时，却学到了太多东西。"
 
 "1993-09-10":
-    - headline: "👽 The X-Files"
-      description: "The X-Files pilot aired on this day. I didn't watch much TV in college so it probably took me a couple of seasons to get turned onto it, but once I did... The X-Files and in particular Dana Scully made a huge impression on young me, and began my life-long Gillian Anderson adoration."
+    - headline: "👽 《X档案》"
+      description: "《X 档案》试播集这天播出。大学时我几乎不看电视，可能过了几个季度才迷上，但一旦入坑……《X 档案》尤其是 Dana Scully 给了年轻的我巨大影响，也开启了我终身的 Gillian Anderson 迷妹之旅。"
 
 "1994-10-01":
-    - headline: "🌎 Saw my first webpage"
-      description: "Around this time, I saw a webpage for the first time. A coworker in the computer lab showed me the Mosaic browser running on OS/2. Lightbulb moment."
+    - headline: "🌎 第一次看到网页"
+      description: "那段时间，我第一次看到网页。同事在实验室给我演示了运行在 OS/2 上的 Mosaic 浏览器，脑中瞬间亮起灯泡。"
 
 "1995-10-03":
-    - headline: "💔 Lost Dad"
-      description: "Miss you every day."
+    - headline: "💔 失去父亲"
+      description: "每天都在想念你。"
 
 "1996-10-01":
-    - headline: "🌎 Made my first webpages"
-      description: "Around this time, I started making my own webpages in earnest, spending long nights in the lab office, a room of my own with a computer and a door."
+    - headline: "🌎 做出我的第一个网页"
+      description: "那段时间我真正开始认真制作自己的网页，在实验室办公室熬夜，那是我的一间小屋，只有一台电脑和一扇门。"
 
 "1997-03-21":
-    - headline: "💝 First date with T"
-      description: "She asked, thank goodness."
+    - headline: "💝 和 T 的第一次约会"
+      description: "幸好是她先开口。"
 
 "1997-06-15":
-    - headline: "🎓 Graduated college"
-      description: "Bachelor of Arts in English, Creative Writing"
+    - headline: "🎓 大学毕业"
+      description: "获得英语专业创意写作方向的文学学士学位。"
       doing: "Funemployed"
       based: "Brooklyn"
       association: ""
 
 "1997-06-29":
-    - headline: "🗽 NY Liberty"
-      description: "Let's go Liberty! Best graduation gift ever from L: Inaugural season tickets for the WNBA's New York Liberty at Madison Square Garden."
+    - headline: "🗽 纽约自由人"
+      description: "纽约自由人加油！L 送给我的最佳毕业礼物：在麦迪逊广场花园观看 WNBA 纽约自由人队首个赛季的季票。"
 
 "1997-07-01":
-    - headline: "🏠 Moved home"
-
-# "1997-07-01":
-#     - headline: "🌅 Went west"
-#       description: "Took my first trip to the left coast with Mom & L. We visited Phoenix, Sedona, Yosemite, and San Francisco. This is when I knew I'd move west someday."
+    - headline: "🏠 搬回家"
 
 "1997-07-15":
-    - headline: "🛗 Elevators"
-      description: "First professional IT job at the elevator company where Dad and my brothers worked. Elevator control is a fascinating engineering and programming problem. Mostly learned networking and programming Java here."
+    - headline: "🛗 电梯公司"
+      description: "在爸爸和哥哥们工作的电梯公司拿到了第一份专业 IT 工作。电梯控制是个迷人的工程与编程课题。我主要在这里学习网络和 Java 编程。"
       doing: "Working"
       association: "O. Thompson"
 
 "1997-09-01":
-    - headline: "📚 Grad school"
-      description: "A computer science program for which this English major was missing most math prerequisites. Catchup was tough."
+    - headline: "📚 研究生院"
+      description: "一个计算机科学项目，对我这个英语专业生来说少了大部分数学先修课。补课很辛苦。"
       based: "Brooklyn"
       doing: "Student"
       association: "CUNY"
 
 "1999-06-15":
-    - headline: "🎓 Graduated"
-      description: "Master's of Science in Computer Information Systems"
+    - headline: "🎓 研究生毕业"
+      description: "获得计算机信息系统理学硕士。"
       based: "Brooklyn"
       doing: "Working"
       association: "O. Thompson"
 
 "1999-10-15":
-    - headline: "🛩️ Skydove, engaged"
-      description: "T proposed and then we jumped out of an airplane. Not sure which was scarier."
+    - headline: "🛩️ 跳伞并订婚"
+      description: "T 求婚后我们就跳下飞机。不知道哪件事更可怕。"
 
 "1999-12-31":
-    - headline: "💥 Y2K"
-      description: "We survived!"
+    - headline: "💥 千年虫"
+      description: "我们活下来了！"
 
 "2000-01-01":
-    - headline: "🚙 Left home"
-      description: "Moved in with L, my first working-adult apartment."
+    - headline: "🚙 离开老家"
+      description: "和 L 搬到一起，拥有了第一间职场成年人的公寓。"
 
 "2000-03-01":
-    - headline: "⚡️ Bolt"
-      description: "Started my first professional web developer job at an NYC dot-com, an early social network for teens. Learned ASP, SQL, and PHP here but most importantly, met a lifelong friend."
+    - headline: "⚡️ 加入 Bolt"
+      description: "在纽约一家面向青少年的早期社交网站开始了第一份专业 Web 开发工作。我在这里学习 ASP、SQL 和 PHP，但最重要的是结识了一位终生挚友。"
       based: "Brooklyn"
       doing: "Working"
       association: "Bolt"
 
 "2000-09-10":
-    - headline: "🪴 Moved in with T"
-      description: "Rented the garden apartment of a brownstone together."
+    - headline: "🪴 与 T 同居"
+      description: "一起租下了一套褐石建筑的一层花园公寓。"
 
 "2001-06-02":
-    - headline: "💍 Married T"
-      description: "We wore matching dresses and Doc Martens. Our families recognized our marriage, the government did not."
+    - headline: "💍 与 T 结婚"
+      description: "我们穿着配套的礼服和马丁靴。家人承认了我们的婚姻，政府没有。"
 
 "2001-09-11":
     - headline: "💔 9/11"
-      description: "Rest in peace, C."
+      description: "安息吧，C。"
 
 "2001-12-01":
-    - headline: "👩‍💻 First blog"
-      description: "Making a personal blog combined my love of writing and webdev in a magical way that set me on fire. I published and tinkered and redesigned obsessively. At first I used Blogger. Later, I built my own custom blogging system. Got to be part of the rich, awesome early-days NYC blogging scene and meet some of the greats who I'd go on to work with later."
+    - headline: "👩‍💻 第一篇博客"
+      description: "写个人博客把我对写作和网页开发的热爱以神奇方式结合在一起，点燃了我。我不停发布、折腾、重构外观。起初使用 Blogger，后来自己搭建定制的博客系统。我加入了纽约早期多彩又精彩的博客圈，结识了许多后来一起合作的大神。"
 
 "2001-12-16":
-    - headline: "📸 First digital camera"
-      description: "It was a Canon Powershot Digital Elph, maybe 3MP. I photographed everything all the time."
+    - headline: "📸 第一台数码相机"
+      description: "那是一台佳能 Powershot Digital Elph，大概 300 万像素。我几乎无时无刻在拍照。"
 
 "2003-08-14":
-    - headline: "🕯️ Blackout"
-      description: "With the subways ground to a halt in the 2003 Northeast blackout, I walked home 8 miles across the bridge with N from the office in sandals. Ouch."
+    - headline: "🕯️ 大停电"
+      description: "2003 年东北大停电让地铁停运，我和 N 从办公室走过大桥回家 8 英里，当时还穿着凉鞋。疼。"
 
 "2003-05-01":
-    - headline: "🐝 Freelancing"
+    - headline: "🐝 自由职业"
       based: "Brooklyn"
       doing: "Freelancing"
       association: ""
-      description: "Left Bolt to try my hand at contract work, at NetAid and later The Digital Journalist. Mostly I worked as a developer on Kinja with Meg, Mark & Nick of Gawker Media."
+      description: "离开 Bolt 开始做合同工作，在 NetAid，后来在 The Digital Journalist。主要和 Meg、Mark 与 Nick 在 Gawker Media 的 Kinja 项目上当开发者。"
 
 "2004-09-20":
-    - headline: "🚁 Helicopter flight"
-      description: "Celebrated my birthday in a helicopter above NYC."
+    - headline: "🚁 直升机飞行"
+      description: "乘直升机飞越纽约庆祝生日。"
 
 "2005-01-30":
-    - headline: "👩‍✈️ Lifehacker"
+    - headline: "👩‍✈️ 加入 Lifehacker"
       based: "Brooklyn"
       doing: "Working"
       association: "Lifehacker"
-      description: "Started Lifehacker at Gawker with Nick and Choire coaching me on how to evolve from a personal blogger to a working media blogger."
+      description: "在 Gawker 创办 Lifehacker，Nick 和 Choire 帮我从个人博主转型为职业媒体博主。"
 
 "2005-08-23":
-    - headline: "✈️ Piloted an airplane"
-      description: "Took my first flying lesson with D in a little four-seater off Cape Cod. What a feeling."
+    - headline: "✈️ 亲自驾驶飞机"
+      description: "和 D 在科德角附近的小型四座飞机上上了第一节飞行课。那种感觉太棒了。"
 
 "2005-09-01":
-    - headline: "☀️ Moved to San Diego"
+    - headline: "☀️ 搬到圣迭戈"
       based: "San Diego"
       doing: "Working"
       association: "Lifehacker"
-      description: "Switched coasts, to T's hometown."
+      description: "换到另一海岸，搬到 T 的家乡。"
 
 "2006-05-12":
-    - headline: "✅ Released Todo.txt"
-      description: "Kicked off a decade of building and maintaining a set of todo list apps, which read and wrote from human-readable plain text files. Published the original todo.sh shell script on this day, which blossomed into a thriving open source community effort around the Todo.txt file format, command-line tool, and an expanding universe of apps and plugins. This longtime, beloved project is where I learned advanced shell scripting, Android and iOS development, git, GitHub, but most importantly about the power of open source code, community, collaboration, and OSS governance."
+    - headline: "✅ 发布 Todo.txt"
+      description: "开启了长达十年的待办应用开发与维护，这些应用读取并写入人类可读的纯文本文件。当日发布了最初的 todo.sh Shell 脚本，随后围绕 Todo.txt 文件格式、命令行工具以及不断扩展的应用与插件生态，成长为一个繁荣的开源社区。我在这个长期挚爱的项目中学会了高级 Shell 脚本、Android 与 iOS 开发、Git、GitHub，更重要的是理解了开源代码、社区、协作与治理的力量。"
 
 "2006-10-10":
-    - headline: "📚 Published my book"
-      description: "The Lifehacker book was published by Wiley. Over time, it went to 3 editions with a handful of translations, including Italian."
+    - headline: "📚 出版了我的书"
+      description: "Wiley 出版了《Lifehacker》一书。此后推出了三个版本，并被翻译成包括意大利语在内的多种语言。"
 
 "2007-06-29":
-    - headline: "📱 iPhone released"
+    - headline: "📱 iPhone 发布"
 
 "2008-02-22":
-    - headline: "🇹🇭 Visited Thailand"
-      description: "Saw The Beach, rode elephants, sailed in long-tail boats, and ate banh mi, with D&A."
+    - headline: "🇹🇭 访问泰国"
+      description: "和 D&A 在泰国看《海滩》取景地、骑大象、乘长尾船，还大快朵颐越南法棍三明治。"
 
 "2008-06-17":
-    - headline: "👩‍⚖️ Married legally"
-      description: "When California legally recognized same-sex marriage, we got married again on the court steps in San Diego, along with countless other couples."
+    - headline: "👩‍⚖️ 法定婚姻"
+      description: "加州合法承认同性婚姻时，我们再次在圣迭戈法院台阶上结婚，和无数其他伴侣一起。"
 
 "2008-10-18":
-    - headline: "🚴‍♂️ First triathlon"
-      description: "San Diego super-sprint with T."
+    - headline: "🚴‍♂️ 首次铁人三项"
+      description: "和 T 在圣迭戈参加超短距离铁人三项。"
 
 "2008-11-04":
-    - headline: "🤬 Marriage ban"
-      description: "Prop 8 passed in the California state elections, banning same-sex marriage. Existing marriages, including ours, were grandfathered in."
+    - headline: "🤬 婚姻禁令"
+      description: "加州全民公投通过了第 8 号提案，禁止同性婚姻。包括我们的婚姻在内的既有婚姻被保留。"
 
 "2009-01-01":
-    - headline: "👩‍💻 Left Lifehacker"
+    - headline: "👩‍💻 离开 Lifehacker"
       doing: "Freelancing"
       association: ""
-      description: "Handed off the editor-in-chief reigns to Adam, transitioned to weekly feature writer, and took on other media clients."
+      description: "把主编的接力棒交给 Adam，转为每周特稿作者，并接了其他媒体客户。"
 
 "2009-08-01":
-    - headline: "🎙️ First podcast"
-      description: "Launched This Week in Google, a podcast with Leo Laporte and Jeff Jarvis. Later, co-hosted All About Android with Jason Howell, In Beta with Kevin Purdy, and The Postlight Podcast/Catalyst."
+    - headline: "🎙️ 第一档播客"
+      description: "与 Leo Laporte 和 Jeff Jarvis 一起推出《This Week in Google》播客。后来还与 Jason Howell 主持《All About Android》，与 Kevin Purdy 主持《In Beta》，以及《Postlight Podcast/Catalyst》。"
 
 "2009-08-20":
-    - headline: "📈 Started ThinkUp"
+    - headline: "📈 创建 ThinkUp"
       based: "San Diego"
       doing: "Working"
       association: "ThinkUp"
-      description: "Pushed the first bit of code for a utility I called Twitalytic, which became ThinkUp, the company and open source software and community I built with Anil over the next 7 years."
+      description: "提交了名为 Twitalytic 的第一个代码片段，它后来成为 ThinkUp——我与 Anil 在接下来七年共同打造的公司、开源软件与社区。"
 
 "2010-01-15":
-    - headline: "🐋 Submarine dive"
-      description: "Got to be one of the first ever civilian bloggers to go out for a dive in a Los Angeles class fast attack Naval submarine out of San Diego."
+    - headline: "🐋 潜艇下潜"
+      description: "作为最早获准登上洛杉矶级快速攻击核潜艇出海的平民博主之一，在圣迭戈完成了一次潜水任务。"
 
 "2011-06-02":
-    - headline: "💍 Married 10 years"
+    - headline: "💍 结婚十周年"
 
 "2011-06-15":
-    - headline: "₿ First Bitcoin"
-      description: "Got my first Bitcoin by chance from a generous nerd when I attended a conference talk about some newfangled digital currency. He handed Bitcoins out at the end to anyone who was curious. I was curious."
+    - headline: "₿ 第一次得到比特币"
+      description: "参加一场关于这种新奇数字货币的会议演讲时，一个慷慨的极客把比特币发给任何好奇的人。我很好奇，于是得到了人生中第一个比特币。"
 
 "2011-07-01":
-    - headline: "🇨🇳 Visited China"
-      description: "Toured Bejing, Shanghai, Guangzhou, Suzhou with T & T."
+    - headline: "🇨🇳 访问中国"
+      description: "与 T&T 一起游历北京、上海、广州和苏州。"
 
 "2012-09-18":
-    - headline: "🐣 E born"
-      description: "At last."
+    - headline: "🐣 E 出生"
+      description: "终于等到了。"
 
 "2013-09-18":
-    - headline: "👶 E turned 1"
+    - headline: "👶 E 满一岁"
 
 "2013-12-30":
-    - headline: "🥯 Back to Brooklyn"
+    - headline: "🥯 回到布鲁克林"
       based: "Brooklyn"
-      description: "A baby brings you closer to family. Co-founders like to work in the same city."
+      description: "有了孩子会想离家人更近。联合创始人也喜欢在同一座城市一起工作。"
 
 "2014-09-18":
-    - headline: "👶 E turned 2"
+    - headline: "👶 E 满两岁"
 
 "2015-05-15":
-    - headline: "🛠️ Made Makerbase"
-      description: "Launched ThinkUp LLC's second product, Makerbase, an IMDb for digital product creators. Fog Creek software acquired Makerbase the next year."
+    - headline: "🛠️ 构建 Makerbase"
+      description: "推出 ThinkUp LLC 的第二款产品 Makerbase，一部数字产品创作者的 IMDb。次年 Makerbase 被 Fog Creek Software 收购。"
 
 "2015-06-26":
-    - headline: "🏳️‍🌈 Marriage recognized nationally"
-      description: "Same-sex marriage became legally recognized in all 50 states across the U.S. The Supreme Court ruled in the case of Obergefell v. Hodges that a fundamental right to marry is guaranteed to same-sex couples by the Fourteenth Amendment, and that states must allow same-sex marriage."
+    - headline: "🏳️‍🌈 全国承认婚姻"
+      description: "美国最高法院在奥贝格费尔诉霍奇斯案中裁定，同性伴侣享有结婚的基本权利，各州必须允许同性婚姻，全国范围内予以承认。"
 
 "2015-08-04":
-    - headline: "🇺🇸 White House"
-      description: "Launched Makerbase at the White House at its first-ever Demo Day, hosted by President Obama on his birthday. We sang Happy Birthday to him in the East Wing."
+    - headline: "🇺🇸 白宫"
+      description: "在白宫举行的首届 Demo Day 上发布 Makerbase，那天正好是奥巴马总统生日。我们在东翼给他唱生日歌。"
 
 "2015-09-18":
-    - headline: "👶 E turned 3"
+    - headline: "👶 E 满三岁"
 
 "2016-04-16":
-    - headline: "🏢 Started at Postlight"
+    - headline: "🏢 加入 Postlight"
       based: "Brooklyn"
       doing: "Working"
       association: "Postlight"
-      description: "An agency, why not?"
+      description: "一家咨询公司，何乐而不为？"
 
 "2016-06-13":
-    - headline: "📉 Shut down ThinkUp"
-      description: "The SaaS model didn't work. We refunded our subscribers with lots of sadness and gratitude."
+    - headline: "📉 关闭 ThinkUp"
+      description: "SaaS 模式行不通。我们怀着悲伤与感激给订阅用户退款。"
 
 "2016-09-18":
-    - headline: "👶 E turned 4"
+    - headline: "👶 E 满四岁"
 
 "2017-06-15":
-    - headline: "🏢 Partner at Postlight"
+    - headline: "🏢 成为 Postlight 合伙人"
 
 "2017-08-15":
-    - headline: "✅ Transitioned Todo.txt"
-      description: "Stepped away from hands-on maintenance, and transferred the Todo.txt projects to a new community-led organization."
+    - headline: "✅ 移交 Todo.txt"
+      description: "退出一线维护，将 Todo.txt 项目移交给新的社区组织。"
 
 "2017-09-18":
-    - headline: "👧 E turned 5"
+    - headline: "👧 E 满五岁"
 
 "2018-03-21":
-    - headline: "🤩 Gillian tweet"
-      description: "Gillian Anderson replied \"thank you, Gina\" to a fangirl tweet from me. Printed, framed, and hung on my wall."
+    - headline: "🤩 吉莲的推文"
+      description: "吉莲·安德森在推特上回复我“thank you, Gina”。我打印出来装裱挂在墙上。"
 
 "2018-07-26":
-    - headline: "🪂 Paragliding"
-      description: "Off the coast in San Diego, spectacular."
+    - headline: "🪂 滑翔伞"
+      description: "在圣迭戈海岸滑翔，风景壮观。"
 
 "2018-09-18":
-    - headline: "👧 E turned 6"
+    - headline: "👧 E 满六岁"
 
 "2019-09-18":
-    - headline: "👧 E turned 7"
+    - headline: "👧 E 满七岁"
 
 "2020-09-18":
-    - headline: "👧 E turned 8"
+    - headline: "👧 E 满八岁"
 
 "2020-03-15":
-    - headline: "🦠 Covid-19"
-      description: "Just a global pandemic."
+    - headline: "🦠 新冠疫情"
+      description: "只是一场全球大流行而已。"
 
 "2020-03-30":
-    - headline: "🦆 North Carolina"
+    - headline: "🦆 北卡罗来纳"
       based: "North Carolina"
-      description: "Pandemic NYC was scary, so we escaped to North Carolina and hunkered in the suburbs, near a beautiful pond with ducks. I spent a lot of time at that pond."
+      description: "疫情暴发时的纽约太可怕了，于是我们逃到北卡罗来纳，在郊区的一个美丽鸭塘边躲避。我在那里待了很久。"
 
 "2020-09-30":
-    - headline: "🥯 Back to Brooklyn"
+    - headline: "🥯 回到布鲁克林"
       based: "Brooklyn"
-      description: "No place like home."
+      description: "家永远最好。"
 
 "2021-06-02":
-    - headline: "💍 Married 20 years"
+    - headline: "💍 结婚二十周年"
 
 "2021-06-15":
-    - headline: "👔 Became CEO"
+    - headline: "👔 成为 CEO"
 
 "2021-09-18":
-    - headline: "👧 E turned 9"
+    - headline: "👧 E 满九岁"
 
 "2022-06-17":
-    - headline: "💸 Sold Postlight"
-      description: "After a long process, we sold the company to NTT DATA, the biggest IT services firm you've never heard of, the company that invented the emoji. 😃"
+    - headline: "💸 出售 Postlight"
+      description: "经历漫长过程后，我们把公司卖给了 NTT DATA——那家你可能没听过的最大 IT 服务公司，也是发明表情符号的企业。😃"
       based: "Brooklyn"
       doing: "Working"
       association: "NTT DATA"
 
 "2022-09-18":
-    - headline: "👧 E turned 10"
+    - headline: "👧 E 满十岁"
 
 "2022-12-28":
-    - headline: "👩‍⚕️ Cancer"
-      description: "Grateful to MSK for my successful treatment."
+    - headline: "👩‍⚕️ 癌症"
+      description: "感谢纪念斯隆凯特琳中心让我的治疗成功。"
 
 "2023-03-03":
-    - headline: "🌍 REF"
-      description: "Joined the board of directors of the Radiant Earth Foundation, a progressive non-profit working on improving access to data about our world."
+    - headline: "🌍 加入 REF 董事会"
+      description: "加入 Radiant Earth Foundation 董事会，这是一家致力于改善全球数据获取的进步非营利组织。"
 
 "2023-07-01":
-    - headline: "🇮🇹 Visited Sicily"
-      description: "Whole fam-damily spent two weeks not far from Trapani, Sicily."
+    - headline: "🇮🇹 访问西西里"
+      description: "全家在特拉帕尼附近的西西里待了两周。"
 
 "2023-09-18":
-    - headline: "👧 E turned 11"
+    - headline: "👧 E 满十一岁"
 
 "2024-07-17":
-    - headline: "🧘‍♀️ Left NTT DATA"
+    - headline: "🧘‍♀️ 离开 NTT DATA"
       based: "Brooklyn"
       doing: "Funemployed"
       association: ""
-      description: "Time for a break."
+      description: "该休息一阵了。"
 
 "2024-09-18":
-    - headline: "👧 E turned 12"
+    - headline: "👧 E 满十二岁"
 
 "2024-10-20":
-    - headline: "🏀 Liberty won!"
-      description: "Got to see the NY Liberty win their first WNBA championship in person at Barclays Center. WE ALL WE GOT, WE ALL WE NEED."
+    - headline: "🏀 自由人夺冠！"
+      description: "亲眼在巴克莱中心见证纽约自由人拿下首个 WNBA 总冠军。WE ALL WE GOT, WE ALL WE NEED."
 
 "2025-02-05":
-    - headline: "📍 Made this"
-      description: "A lot of rest and reflection and space and time to explore led to finding Life in Weeks, copying it, and making it my own."
+    - headline: "📍 做了这个项目"
+      description: "经过大量休息、反思与探索，我发现了 Life in Weeks，把它复制并打造出属于自己的版本。"
 
-"2059-09-19":
-    - headline: "☠️ Life expectancy"
+"2082-05-04":
+    - headline: "☠️ 预期寿命"
 
-"2075-09-19":
-    - headline: "🥰 Hug T&E at the beach"
+"2098-05-04":
+    - headline: "🥰 在海边拥抱 T 和 E"
 
 # Presidents
 "1981-01-20":
-    - headline: "🇺🇸 Reagan inaugurated"
+    - headline: "🇺🇸 里根宣誓就职"
 "1989-01-20":
-    - headline: "🇺🇸 GH Bush inaugurated"
+    - headline: "🇺🇸 老布什宣誓就职"
 "1993-01-20":
-    - headline: "🇺🇸 Clinton inaugurated"
+    - headline: "🇺🇸 克林顿宣誓就职"
 "2001-01-20":
-    - headline: "🇺🇸 GW Bush inaugurated"
+    - headline: "🇺🇸 小布什宣誓就职"
 "2009-01-20":
-    - headline: "🇺🇸 Obama inaugurated"
+    - headline: "🇺🇸 奥巴马宣誓就职"
 "2017-01-20":
-    - headline: "🇺🇸 Cheeto inaugurated"
+    - headline: "🇺🇸 橘子宣誓就职"
 "2021-01-20":
-    - headline: "🇺🇸 Biden inaugurated"
+    - headline: "🇺🇸 拜登宣誓就职"
 "2025-01-20":
-    - headline: "🇺🇸 Cheeto inaugurated"
+    - headline: "🇺🇸 橘子宣誓就职"

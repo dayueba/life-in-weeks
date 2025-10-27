@@ -1,4 +1,4 @@
-baseURL = 'https://weeks.ginatrapani.org/'
+baseURL = 'https://life-in-weeks.edgeone.run/'
 languageCode = 'en-us'
 title = 'My Life in Weeks'
 disableKinds = ["taxonomy", "taxonomy"]
